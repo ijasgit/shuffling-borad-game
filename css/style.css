@@ -1,0 +1,48 @@
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 255, 0.295);
+    color: white;
+    font-weight: bold;
+
+}
+.cir{
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: rgb(193 24 24);
+}
+.sym{
+    position: absolute;
+    
+}
+.syma{
+    margin: 0px 0px 0px 90px;
+    position: absolute;
+}
+.symb{
+    margin: 90px 0px 0px 190px;
+    position: absolute;
+}
+.symc{
+    margin: 184px 0px 0px 90px;
+    position: absolute;
+}
+.symd{
+    margin: 90px 0px 0px 0px;
+    position: absolute;
+}
+.syme{
+    margin: 37px 0px 0px 20px;
+    position: absolute;
+}
+#sf{
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    font-size: 20px;
+    transform: translate(-50%, -50%);
+}
