@@ -11,5 +11,3 @@ function load(){
        
     })
 }
-// var load=document.getElementById('sf')
-// load.addEventListerner('click',lo)
